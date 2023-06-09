@@ -1,0 +1,9 @@
+*.gz
+.DS_Store
+*.zip
+/result*/
+.ven/
+.venv/
+.vscode/
+.csv
+__pycache__/
